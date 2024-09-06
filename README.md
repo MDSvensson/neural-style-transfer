@@ -1,4 +1,4 @@
-# applied_generative_ai_techtalks
+# applied_generative_ai
 
 
 
